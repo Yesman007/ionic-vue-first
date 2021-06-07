@@ -1,0 +1,7 @@
+ion-toolbar{
+    /*Gets the colour from the variable.css file */
+     --background: var(--ion-color-primary); 
+     /* Only works for android the --color so use the variables.cc file to change the colour in the root section -bottom*/
+     --color: var(--ion-color-primary-contras);
+    
+}
